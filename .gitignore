@@ -14,5 +14,5 @@
 /log/*.log
 /tmp
 
-# ignore settings file
-/lib/settings.rb
+# ignore EchoNest settings file
+settings.rb
